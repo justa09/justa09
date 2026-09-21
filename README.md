@@ -1,12 +1,14 @@
-<h1 align="center">
-  👋 Hi, I'm Vikas Justa
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vikas+Justa+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+Flutter+%F0%9F%9A%80;Building+Practical+Applications+%F0%9F%94%A5" />
+</p>
 
-💻 Full-Stack Developer
+<h3 align="center">
+  💻 Full-Stack Developer
+
 🚀 Python | Django | Flutter | REST APIs
 🎓 Academic projects / real-world projects
 📍 Shimla, Himachal Pradesh
-LinkedIn + Portfolio links
+</h3>
 
 [LinkedIn](https://linkedin.com/in/vikas-justa-193903306)
 
