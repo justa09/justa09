@@ -1,4 +1,7 @@
-👋 Hi, I'm Vikas Justa
+<h1 align="center">
+  👋 Hi, I'm Vikas Justa
+</h1>
+
 💻 Full-Stack Developer
 🚀 Python | Django | Flutter | REST APIs
 🎓 Academic projects / real-world projects
@@ -46,5 +49,17 @@ Key Features:
 📋 Teachers can view their complete class schedule anytime
 📧 Email OTP verification for updating profile information
 ⚡ Simplifies timetable management and improves communication between the institution and teachers
+
+Tech Stack: Flutter • Dart • Django • Python • REST APIs • PostgreSQL
+
+
+Key Features:
+
+🔎 Employees can search and apply for relevant job opportunities
+🏢 Recruiters can register their companies and manage job postings
+👥 Recruiters can review candidates and hire employees
+📄 Employee profiles for showcasing skills, qualifications, and experience
+📋 Job and application management
+🔐 Secure user authentication and role-based access
 
 Tech Stack: Flutter • Dart • Django • Python • REST APIs • PostgreSQL
